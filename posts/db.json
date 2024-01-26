@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "title": "Post about reading",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+        "id": "1",
+        "title": "Post about cinema",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+        "id": "2",
+        "title": "Post about games",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    }
+]
